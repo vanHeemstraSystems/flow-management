@@ -1,4 +1,4 @@
-[![Quarto Publish](https://github.com/vanHeemstraSystems/map-management/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/map-management/actions/workflows/publish.yml)
+[![Quarto Publish](https://github.com/vanHeemstraSystems/permission-management/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/permission-management/actions/workflows/publish.yml)
 
 permission-management
 # Permission Management
