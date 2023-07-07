@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Permission - Management](README.md)
+* [Flow - Management](README.md)
