@@ -13,6 +13,8 @@ Based on "How to Run PostgreSQL and pgAdmin Using Docker" at https://towardsdata
 
 Based on "Sequential Workflow Designer" at https://github.com/nocode-js/sequential-workflow-designer
 
+![Image](https://github.com/user-attachments/assets/15a79d48-4a9f-425b-a011-134643d189d0)
+
 Create yarn.lock file as follows:
 
 ```
