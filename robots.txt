@@ -1,1 +1,1 @@
-Sitemap: https://github.com/vanHeemstraSystems/flow-management/sitemap.xml
+Sitemap: https://vanHeemstraSystems.github.io/flow-management/sitemap.xml
