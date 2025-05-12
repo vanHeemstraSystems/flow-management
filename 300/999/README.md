@@ -127,11 +127,7 @@ Here is an example of **flow-developing-an-internal-security-roadmap.md**:
 
 This flow table can be printed and attached to the side of your laptop computer for ease of reference.
 
-
-
-IMAGE GOES HERE
-
-
+![Image](https://github.com/user-attachments/assets/dbfab7b9-1f25-4783-9c60-15727485ac0f)
 
 **TIP**: 
 
