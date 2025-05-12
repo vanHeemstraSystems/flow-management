@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "SUMMARY.html",
-    "href": "SUMMARY.html",
-    "title": "Table of contents",
-    "section": "",
-    "text": "Table of contents\n\nFlow - Management"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -89,6 +82,13 @@
     "title": "Documentation",
     "section": "",
     "text": "Visit https://vanHeemstraSystems-flow-management.readthedocs.io/en/latest/"
+  },
+  {
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
+    "section": "",
+    "text": "Table of contents\n\nFlow - Management"
   },
   {
     "objectID": "index.html",
