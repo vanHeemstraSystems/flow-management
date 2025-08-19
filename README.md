@@ -13,7 +13,16 @@ Based on "How to Run PostgreSQL and pgAdmin Using Docker" at https://towardsdata
 
 Based on "Sequential Workflow Designer" at https://github.com/nocode-js/sequential-workflow-designer
 
-![Image](https://github.com/user-attachments/assets/15a79d48-4a9f-425b-a011-134643d189d0)
+<img width="1262" height="710" alt="Image" src="https://github.com/user-attachments/assets/1e9b0c85-922b-4949-b23e-e733bef2c521" />
+
+<table>
+<th colspan="5">Summarize with:</th><tr/> 
+<td><a href="https://chat.openai.com/?q=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/flow-management/">ChatGPT</a></td>
+<td><a href="https://x.com/i/grok?text=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/flow-management/">Grok</a></td>
+<td><a href="https://www.google.com/search?udm=50&aep=11&q=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/flow-management/">Google AI Mode</a></td>
+<td><a href="https://www.perplexity.ai/search/new?q=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/flow-management/">Perplexity</a></td>
+<td><a href="https://claude.ai/new?q=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/flow-management/">Claude.ai</a></td>  
+</table>
 
 Create yarn.lock file as follows:
 
