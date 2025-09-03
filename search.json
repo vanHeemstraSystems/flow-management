@@ -7,11 +7,11 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "REFERENCES.html",
+    "href": "REFERENCES.html",
+    "title": "References",
     "section": "",
-    "text": "About this site"
+    "text": "References\n\nSpec Kit"
   },
   {
     "objectID": "DOCUMENTATION.html",
@@ -96,5 +96,12 @@
     "title": "Table of contents",
     "section": "",
     "text": "Table of contents\n\nFlow - Management"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
