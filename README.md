@@ -13,7 +13,7 @@ Based on "How to Run PostgreSQL and pgAdmin Using Docker" at https://towardsdata
 
 Based on "Sequential Workflow Designer" at https://github.com/nocode-js/sequential-workflow-designer
 
-<img width="1262" height="710" alt="Image" src="https://github.com/user-attachments/assets/1e9b0c85-922b-4949-b23e-e733bef2c521" />
+<img width="1395" height="897" alt="Image" src="https://github.com/user-attachments/assets/69af24b8-c600-4fb8-8823-6303e8f0d9df" />
 
 <table>
 <th colspan="5">Summarize with:</th><tr/> 
